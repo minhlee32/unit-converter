@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class unitConverter {
+public class UnitConverter {
     public static void main(String[] args) {
         int choice;
         double foot;
